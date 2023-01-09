@@ -1,0 +1,25 @@
+p{
+    background-color: beige;
+    width: 400px;
+    height: 250px;
+}
+
+h1{
+    background-color: cadetblue;
+    color: white;
+    display: inline;
+}
+
+h2{
+    display: inline;
+}
+
+.caja{
+    background-color: lightcoral;
+    color: white;
+    border: solid 3px lavender;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    display: inline-block;
+}
